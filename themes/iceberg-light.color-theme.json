@@ -293,7 +293,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#2d539e"
+				"foreground": "#5e2a84",
 			}
 		},
 		{
@@ -303,7 +303,8 @@
 				"keyword.operator.new"
 			],
 			"settings": {
-				"foreground": "#2d539e"
+				"foreground": "#5e2a84",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -315,13 +316,14 @@
 		{
 			"scope": "keyword.function",
 			"settings": {
-				"foreground": "#2d539e"
+				"foreground": "#5e2a84",
+				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#33374c"
+				"foreground": "#090b15"
 			}
 		},
 		{
@@ -416,13 +418,13 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#2d539e"
+				"foreground": "#683691"
 			}
 		},
 		{
 			"scope": "storage.type.function",
 			"settings": {
-				"foreground": "#2d539e"
+				"foreground": "#5e2a84"
 			}
 		},
 		{
@@ -447,6 +449,13 @@
 			"scope": "variable.language.this",
 			"settings": {
 				"foreground": "#668e3d"
+			}
+		},
+		{
+			"scope": "meta.function-call",
+			"settings": {
+				"foreground": "#774588",
+				"fontStyle": "italic"
 			}
 		},
 		{
