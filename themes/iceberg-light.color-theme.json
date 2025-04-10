@@ -251,7 +251,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#8389a3"
+				"foreground": "#b9bac0"
 			}
 		},
 		{
@@ -260,7 +260,8 @@
 				"support.constant"
 			],
 			"settings": {
-				"foreground": "#7759b4"
+				"foreground": "#7759b4",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -272,13 +273,15 @@
 		{
 			"scope": "entity.name.class",
 			"settings": {
-				"foreground": "#33374c"
+				"foreground": "#33374c",
+				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#33374c"
+				"foreground": "#33374c",
+				"fontStyle": "bold"
 			}
 		},
 		{
