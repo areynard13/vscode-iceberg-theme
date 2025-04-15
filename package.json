@@ -2,7 +2,7 @@
 	"name": "iceberg-theme-code-visible",
 	"displayName": "Iceberg Theme code more visible",
 	"description": "Bluish color theme",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "areynard",
 	"engines": {
 		"vscode": "^1.11.0"
